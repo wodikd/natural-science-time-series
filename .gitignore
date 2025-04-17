@@ -1,0 +1,60 @@
+# Python 캐시
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook 체크포인트 및 임시 파일
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Conda/Anaconda 관련 임시 디렉토리
+anaconda_projects/
+
+# 환경 관련
+.env
+*.env
+*.venv
+.venv/
+env/
+ENV/
+
+# 빌드 및 배포
+build/
+dist/
+*.egg-info/
+.eggs/
+*.whl
+pip-wheel-metadata/
+
+# Jupyter Lab 확장 관련 (선택 사항)
+node_modules/
+.jupyter/
+.ipython/
+
+# PyCharm 설정 (개인 IDE 설정)
+.idea/
+Writerside/
+
+# OS 및 에디터 관련
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+
+# 로그 및 기타 임시 파일
+*.log
+
+# Test 디렉토리는 상황에 따라 관리
+# 만약 실험성 테스트 코드는 제외하고 싶다면:
+# Test/
+
+# preprocess는 분석 코드라면 포함
+# 포함하고 싶지 않다면 주석 제거:
+# preprocess/
+
+# 기타 Git 관련
+.git/
+.ipynb_checkpoints/
+.virtual_documents/
+anaconda_projects/
