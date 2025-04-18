@@ -1,0 +1,10 @@
+1. (Ai 작성)북극_해빙_관련_실제_유형_데이터 : Chat GPT로 작성 - 칼럼 : 날짜 / 해빙 면적 (백만 km²) / 북극 평균 기온 (℃) / 해수면 온도 (℃) / 강수량 (mm) / 해빙 두께 (m) / 북극곰 개체수 추정 / 해수면 높이 (mm, 누적)
+
+2. (기온 월별)
+	https://data.giss.nasa.gov/gistemp/
+
+3. (북극곰 서식지)
+	https://www.iucn-pbsg.org/population-status/
+
+4. (빙하두께),(빙하량) 
+	https://psc.apl.uw.edu/research/projects/arctic-sea-ice-volume-anomaly/data/
