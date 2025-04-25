@@ -1,0 +1,2 @@
+sarima_order,sarima_seasonal_order,model_type,optimal_weight,sarima_rmse,sarima_mae,sarima_r2,hybrid_rmse,hybrid_mae,hybrid_r2,improvement_rmse,improvement_mae,test_period
+"(1, 0, 1)","(1, 0, 1, 12)",xgb,0.5,0.006724302866636199,0.005509935630093055,-3.8209435561032654,0.0048239133097755,0.004696026955579247,-1.481055638802287,28.26151044281204,14.771654864143347,2014-02-01 00:00:00 ~ 2014-03-01 00:00:00
